@@ -3,10 +3,10 @@
 This model is able to detect if a company is employing AI in its activities using as input the text description of the company with more than 0.99 of accuracy.
 
 This repository:
-    - model.ipynb: Jupyter file.
-    - 4 pickle files of saved variables that take more than 5 minutes to run (tokenizer, text_preprocessed, tokenized_data, shuffled_data).
-    - model.zip: the model compressed (you can unzip it and load it in jupyter to see the result).
-    - the dataset file.
+    - model.ipynb: Jupyter file.<br/>
+    - 4 pickle files of saved variables that take more than 5 minutes to run (tokenizer, text_preprocessed, tokenized_data, shuffled_data).<br/>
+    - model.zip: the model compressed (you can unzip it and load it in jupyter to see the result).<br/>
+    - the dataset file.<br/>
 
 ### Methodoloy of work:
 In this project I used the CRISP-DM methodology because it’s the newest one.
