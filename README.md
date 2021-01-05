@@ -5,7 +5,7 @@ This model is able to predict if a company is employing AI in its activities usi
 ✅ Keywords: NLP, BERT, CNN, Text Classification
 
 
-This repository:<br/>
+This repository contains:<br/>
     - model.ipynb: Jupyter file.<br/>
     - 4 pickle files of saved variables that take more than 5 minutes to run (tokenizer, text_preprocessed, tokenized_data, shuffled_data).<br/>
     - model.zip: the model compressed (you can unzip it and load it in jupyter to see the result).<br/>
