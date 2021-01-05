@@ -1,6 +1,6 @@
 # Prediction of business activity
 
-This model is able to detect if a company is employing AI in its activities using as input the text description of the company with more than 0.99 of accuracy.
+This model is able to predict if a company is employing AI in its activities using as input its text description with more than 0.99 of accuracy.
 
 This repository:<br/>
     - model.ipynb: Jupyter file.<br/>
