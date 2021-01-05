@@ -3,6 +3,13 @@
 This model is able to detect if a company is employing AI in its activities using as input the text description of the company.
 
 
+### Methodoloy of work:
+In this task I used the CRISP-DM methodology because it’s the newest one.
+This fgure below shows the diferenet stess CRISP-DM:
+
+![](crispdm.png)
+
+
 ## Encoding the text data:
 For text encoding there is a lot of transormers (like TF-IDF) but most of them are simsle so I used
 Bert transformer to encode the text data which is one of the newest NLP transformers (created by
@@ -31,4 +38,4 @@ This fgure illustrates the CNN architecture:
 And fnally the CNN architecture solved this task with more than 0.99 of accuracy which is
 demonstrated in this fgure:
 
-![](evaluation.jpg)
+![](evaluation.png)
